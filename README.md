@@ -13,7 +13,7 @@ Pokefetch is a sleek and interactive Pokémon information app that lets users se
    Pokémon **ID**
   **Type(s)** (e.g., Grass, Fire, Electric)
   **Base Stats** (HP, Attack, Defense, etc.)
-  **Weight** (Coming soon)
+  **Weight**
 -  **Sleek, responsive design** optimized for mobile and desktop
 -  Smooth color-coded type badges using TailwindCSS
 
